@@ -1,0 +1,141 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.top-header {
+    padding: 20px 0;
+}
+
+.form-top {
+    margin-top: 10px;
+}
+
+.full-head {
+    background-color: #5cb85d;
+    padding: 10px 0;
+}
+
+.location-txt p .fa {
+    margin: 0 6px 0 0;
+}
+
+.location-txt {
+    color: #fff;
+    font-weight: 600;
+}
+
+.location-txt p {
+    float: left;
+    margin-right: 25px;
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+.heading-txt {
+    margin: 40px 0;
+}
+
+.heading-txt h3 {
+    font-size: 18px;
+    color: #000;
+    font-weight: bold;
+}
+
+.heading-txt h3 span {
+    color: #dab788;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.bg-grey {
+    width: 100%;
+    padding: 60px 0;
+    background-color: #efefef;
+    margin: 50px 0 0 0;
+}
+
+.thumbnail-img .thumbnail {
+    padding: 0;
+}
+
+.thumbnail-img .thumbnail h3 {
+    font-size: 18px;
+    margin: 8px 0 0;
+}
+
+.thumbnail-img .thumbnail .nameSpan {
+    color: #999;
+    font-size: 14px;
+    margin: 0 0 10px 0;
+    float: left;
+    width: 100%;
+}
+
+.thumbnail-img .thumbnail p {
+    color: #000;
+    font-size: 15px;
+}
+
+.thumbnail-img .caption .fa {
+    color: #feb300;
+    font-size: 18px;
+    margin: 6px 0 0 0;
+}
+
+.thumbnail-img img {
+    min-height: 200px;
+}
+
+.star-btn {
+    height: 50px;
+}
+
+.right-side-menu {
+    background-color: #ccc;
+    padding: 6px 0;
+}
+
+.right-side-menu li {
+    list-style-type: none;
+    padding: 5px 0;
+    border-bottom: 1px solid #fff;
+    display: inline-block;
+    width: 100%;
+}
+
+.right-side-menu li:last-child {
+    border-bottom: 0;
+}
+
+.right-side-menu li a {
+    padding: 5px 25px;
+    font-size: 16px;
+    color: #fff;
+    width: 100%;
+    display: inline-block;
+}
+
+.right-side-menu li a .fa {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+span.stars,
+span.stars span {
+    display: block;
+    background: url('images/stars.png') 0 -16px repeat-x;
+    width: 80px;
+    height: 16px;
+}
+
+span.stars span {
+    background-position: 0 0;
+}
+
+.alignright {
+    float: left;
+}
